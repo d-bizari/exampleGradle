@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed6c3754-1ce6-4cf7-b2ff-66f75d2819e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/exampleGradle/testLampara.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -155,7 +153,8 @@
       <option name="presentableId" value="Default" />
       <updated>1571860628618</updated>
       <workItem from="1571860633697" duration="268000" />
-      <workItem from="1571922423687" duration="376000" />
+      <workItem from="1571922423687" duration="1099000" />
+      <workItem from="1571929125082" duration="30000" />
     </task>
     <servers />
   </component>
@@ -167,7 +166,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
